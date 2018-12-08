@@ -5,4 +5,6 @@
 
     <dimen name="editTextSiseLogin">22sp</dimen>
     <dimen name="padding_horizontal_login">32dp</dimen>
+    <dimen name="textsize_donthaveaccount">16dp</dimen>
+    <dimen name="editText_create_account">10dp</dimen>
 </resources>

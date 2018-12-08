@@ -7,6 +7,13 @@
     <string name="hint_password">Contraseña</string>
     <string name="text_button_login">Login</string>
     <string name="gyrsacname">GYRsac</string>
+    <string name="dont_have_account">¿No tienes cuenta?,</string>
+    <string name="create_here">crea aqui.</string>
+    <string name="hint_name">Ingrese su nombre</string>
+    <string name="hint_email">correo</string>
+    <string name="hint_user">usuario</string>
+    <string name="hint_confirm_password">confirmar contraseña</string>
+    <string name="text_button_createaccount">Unete</string>
 
 
 </resources>

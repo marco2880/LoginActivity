@@ -6,4 +6,5 @@
     <color name="colorOrange">#fd7c03</color>
     <color name="colorYellow">#eff702</color>
     <color name="editTextColorWhite">#FFFFFF</color>
+    <color name="editTextColorBlack">#000000</color>
 </resources>
