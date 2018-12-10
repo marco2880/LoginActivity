@@ -13,4 +13,5 @@
     <string name="hint_user">usuario</string>
     <string name="hint_confirm_password">confirmar contraseña</string>
     <string name="text_button_createaccount">Unete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
 </resources>

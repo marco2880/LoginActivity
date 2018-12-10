@@ -10,6 +10,10 @@
     tools:context=".view.CreateAccountActivity">
 
 
+    <include layout="@layout/actionbar_toolbar">
+
+
+    </include>
 
 
     <ScrollView
