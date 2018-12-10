@@ -14,4 +14,7 @@
     <string name="hint_confirm_password">confirmar contraseña</string>
     <string name="text_button_createaccount">Unete</string>
     <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="user_namecard">Jorge Gonzales</string>
+    <string name="firstword">Hace </string>
+    <string name="timecard_card">4 días</string>
 </resources>

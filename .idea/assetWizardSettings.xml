@@ -23,7 +23,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="159" />
+                                                <entry key="scalingPercent" value="219" />
                                                 <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
@@ -35,7 +35,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="D:\GYR SAC\logos\iconomundo.png" />
+                                      <entry key="foregroundImage" value="D:\1PROYECTOS\proyecto5carrito\JSP - Proyecto de carrito de compras\Proyecto - JSP y Mysql - Tienda Online\WebApplication1\web\Imagen\evaucacionaerea.jpg" />
                                       <entry key="foregroundLayerName" value="ic_launcher_foreground" />
                                       <entry key="outputName" value="ic_gyrsac" />
                                     </map>
