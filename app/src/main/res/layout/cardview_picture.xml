@@ -84,7 +84,8 @@
                         android:id="@+id/likeCheckCard"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:background="@drawable/inconheart"
+                        android:background="@drawable/heart"
+                        android:button="@drawable/checkboxselector"
 
 
                         />
