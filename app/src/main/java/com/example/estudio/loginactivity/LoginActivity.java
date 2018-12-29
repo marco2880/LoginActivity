@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import com.example.estudio.loginactivity.view.ContainerActivity;
 import com.example.estudio.loginactivity.view.CreateAccountActivity;
 
 public class LoginActivity extends AppCompatActivity {
@@ -22,4 +23,13 @@ public class LoginActivity extends AppCompatActivity {
 
 
     }
+
+
+    public void goHomeActivity(View view){
+        Intent intent = new Intent(this, ContainerActivity.class);
+        startActivity(intent);
+
+
+    }
+
 }

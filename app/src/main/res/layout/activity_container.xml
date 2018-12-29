@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:paddingBottom="@dimen/containerpadding"
+    android:paddingLeft="@dimen/containerpadding"
+    android:paddingRight="@dimen/containerpadding"
+    android:paddingTop="@dimen/containerpadding"
+
     tools:context=".view.ContainerActivity">
 
-</android.support.constraint.ConstraintLayout>
+    <include layout="@layout/bottombar"></include>
+
+</RelativeLayout>
